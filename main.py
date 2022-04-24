@@ -212,4 +212,4 @@ map1.populate_map(Puffin, 10)
 map1.populate_map(Dodo, 10)
 map1.simulate(300)
 
-map1.plot_data("Default Title")
+map1.plot_data("Example", False)
